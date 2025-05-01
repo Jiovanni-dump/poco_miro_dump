@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240829.003 OS2.0.107.0.VOMMIXM release-keys
+- manufacturer: xiaomi
+- platform: sun
+- codename: miro
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240829.003
+- incremental: OS2.0.107.0.VOMMIXM
+- tags: release-keys
+- fingerprint: POCO/miro_global/miro:15/AQ3A.240829.003/OS2.0.107.0.VOMMIXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi-user-15-AQ3A.240829.003-OS2.0.107.0.VOMMIXM-release-keys
+- repo: poco_miro_dump
